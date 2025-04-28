@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlexandrNizkovskikh/AlexandrNizkovskikh/blob/main/Banner.png?raw=true" alt="Portfolio Banner" width="100%">
+  <img src="https://github.com/AlexandrNizkovskih/AlexandrNizkovskih/blob/main/Banner.png?raw=true" alt="Portfolio Banner" width="100%">
 </p>
 
 # Проекты в области машинного обучения и нейронных сетей
