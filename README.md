@@ -64,6 +64,7 @@
 | [Dialogue Assistant (Saiga Mistral 7B)](https://github.com/AlexandrNizkovskikh/dialogue-assistant-llm) | Построение диалогового ассистента на базе локальной русскоязычной LLM-модели через PEFT и Transformers. | Python, Transformers, PEFT, Torch |
 | [Knowledge Graph Assistant (LlamaIndex + Local LLM)](https://github.com/AlexandrNizkovskikh/knowledge-graph-assistant) | Построение графовой базы знаний и интеграция локальной LLM через PEFT и Gradio для диалогового взаимодействия. | Python, LlamaIndex, Hugging Face, PEFT, Gradio |
 | [Tiny Transformer (WebQuestions)](https://github.com/AlexandrNizkovskikh/tiny-transformer-webquestions) | Создание компактной трансформерной модели для обработки вопросов и предсказания ответов. | Python, TensorFlow, TensorFlow Datasets |
+| 🟢 **[Telegram Knowledge Bot](https://github.com/AlexandrNizkovskih/telegram-knowledge-bot)** | 🔹 **Первый проект для реального заказчика**. Telegram-бот с RAG-архитектурой, поиском по базе знаний, генерацией ответов и API-интерфейсом. Развёрнут на сервере с systemd. | Python, sentence-transformers, Flask, OpenRouter, VPS |
 
 ---
 
