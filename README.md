@@ -19,6 +19,8 @@
 | [Review Sentiment Analyzer](https://github.com/AlexandrNizkovskih/review-sentiment-analyzer) | Классификация отзывов (позитив/негатив). Реализован API, CLI и автоматическая генерация отчётов. | Python, Scikit-learn, FastAPI, Pandas, NLTK |
 | [Retail Demand Forecast Service](https://github.com/AlexandrNizkovskih/retail-demand-forecast) | Прогнозирование спроса на товары по магазинам. Временные ряды, кросс-валидация, визуализация прогнозов. | Python, Scikit-learn, Pandas, Matplotlib |
 | [Payment Fraud Monitoring Service](https://github.com/AlexandrNizkovskih/payment-fraud-monitoring) | Выявление мошеннических транзакций. API и CLI для скоринга, анализ метрик, пороговые сценарии. | Python, Scikit-learn, FastAPI, Pandas, Matplotlib |
+| [Telegram Knowledge Bot](https://github.com/AlexandrNizkovskih/telegram-knowledge-bot) | Telegram-бот с RAG-архитектурой, поиском по базе знаний, генерацией ответов и API-интерфейсом. Развёрнут на сервере с systemd. | Python, sentence-transformers, Flask, OpenRouter, VPS |
+
 
 ---
 
